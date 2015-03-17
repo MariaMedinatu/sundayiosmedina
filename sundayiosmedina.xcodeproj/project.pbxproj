@@ -1,0 +1,452 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3B08E8901AB58C190083903F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B08E88F1AB58C190083903F /* AppDelegate.swift */; };
+		3B08E8921AB58C190083903F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B08E8911AB58C190083903F /* ViewController.swift */; };
+		3B08E8951AB58C190083903F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B08E8931AB58C190083903F /* Main.storyboard */; };
+		3B08E8971AB58C190083903F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B08E8961AB58C190083903F /* Images.xcassets */; };
+		3B08E89A1AB58C190083903F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3B08E8981AB58C190083903F /* LaunchScreen.xib */; };
+		3B08E8A61AB58C1A0083903F /* sundayiosmedinaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B08E8A51AB58C1A0083903F /* sundayiosmedinaTests.swift */; };
+		3B08E8B01AB58DCE0083903F /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B08E8AF1AB58DCE0083903F /* ViewController2.swift */; };
+		3B08E8B21AB58F5E0083903F /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B08E8B11AB58F5E0083903F /* ViewController3.swift */; };
+		3B08E8B51AB5923E0083903F /* Button Circle Magenta.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B08E8B31AB5923D0083903F /* Button Circle Magenta.png */; };
+		3B08E8B61AB5923E0083903F /* bb7dd44c210722a9c22fea969564d752.jpg.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B08E8B41AB5923D0083903F /* bb7dd44c210722a9c22fea969564d752.jpg.png */; };
+		3B08E8B81AB592550083903F /* esensorics-lilla-430x100.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B08E8B71AB592550083903F /* esensorics-lilla-430x100.png */; };
+		3B08E8BC1AB59E790083903F /* compuutrid-300x184.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B08E8BB1AB59E790083903F /* compuutrid-300x184.png */; };
+		3B08E8BE1AB59F520083903F /* 3b89f4e.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B08E8BD1AB59F520083903F /* 3b89f4e.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		3B08E8A01AB58C1A0083903F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3B08E8821AB58C190083903F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3B08E8891AB58C190083903F;
+			remoteInfo = sundayiosmedina;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3B08E88A1AB58C190083903F /* sundayiosmedina.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sundayiosmedina.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3B08E88E1AB58C190083903F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3B08E88F1AB58C190083903F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3B08E8911AB58C190083903F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3B08E8941AB58C190083903F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3B08E8961AB58C190083903F /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		3B08E8991AB58C190083903F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		3B08E89F1AB58C1A0083903F /* sundayiosmedinaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sundayiosmedinaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3B08E8A41AB58C1A0083903F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3B08E8A51AB58C1A0083903F /* sundayiosmedinaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sundayiosmedinaTests.swift; sourceTree = "<group>"; };
+		3B08E8AF1AB58DCE0083903F /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		3B08E8B11AB58F5E0083903F /* ViewController3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
+		3B08E8B31AB5923D0083903F /* Button Circle Magenta.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Button Circle Magenta.png"; path = "../../iostaskmedina/iostaskmedina/Button Circle Magenta.png"; sourceTree = "<group>"; };
+		3B08E8B41AB5923D0083903F /* bb7dd44c210722a9c22fea969564d752.jpg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bb7dd44c210722a9c22fea969564d752.jpg.png; path = ../../iostaskmedina/iostaskmedina/bb7dd44c210722a9c22fea969564d752.jpg.png; sourceTree = "<group>"; };
+		3B08E8B71AB592550083903F /* esensorics-lilla-430x100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "esensorics-lilla-430x100.png"; path = "../../iostaskmedina/iostaskmedina/esensorics-lilla-430x100.png"; sourceTree = "<group>"; };
+		3B08E8BB1AB59E790083903F /* compuutrid-300x184.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "compuutrid-300x184.png"; path = "../../../../Users/kasutaja/Desktop/compuutrid-300x184.png"; sourceTree = "<group>"; };
+		3B08E8BD1AB59F520083903F /* 3b89f4e.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 3b89f4e.png; path = ../../../../Users/kasutaja/Downloads/3b89f4e.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3B08E8871AB58C190083903F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3B08E89C1AB58C1A0083903F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3B08E8811AB58C190083903F = {
+			isa = PBXGroup;
+			children = (
+				3B08E88C1AB58C190083903F /* sundayiosmedina */,
+				3B08E8A21AB58C1A0083903F /* sundayiosmedinaTests */,
+				3B08E88B1AB58C190083903F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3B08E88B1AB58C190083903F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3B08E88A1AB58C190083903F /* sundayiosmedina.app */,
+				3B08E89F1AB58C1A0083903F /* sundayiosmedinaTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3B08E88C1AB58C190083903F /* sundayiosmedina */ = {
+			isa = PBXGroup;
+			children = (
+				3B08E88F1AB58C190083903F /* AppDelegate.swift */,
+				3B08E8911AB58C190083903F /* ViewController.swift */,
+				3B08E8AF1AB58DCE0083903F /* ViewController2.swift */,
+				3B08E8931AB58C190083903F /* Main.storyboard */,
+				3B08E8B11AB58F5E0083903F /* ViewController3.swift */,
+				3B08E8961AB58C190083903F /* Images.xcassets */,
+				3B08E8981AB58C190083903F /* LaunchScreen.xib */,
+				3B08E88D1AB58C190083903F /* Supporting Files */,
+			);
+			path = sundayiosmedina;
+			sourceTree = "<group>";
+		};
+		3B08E88D1AB58C190083903F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3B08E8BD1AB59F520083903F /* 3b89f4e.png */,
+				3B08E8BB1AB59E790083903F /* compuutrid-300x184.png */,
+				3B08E8B71AB592550083903F /* esensorics-lilla-430x100.png */,
+				3B08E8B31AB5923D0083903F /* Button Circle Magenta.png */,
+				3B08E8B41AB5923D0083903F /* bb7dd44c210722a9c22fea969564d752.jpg.png */,
+				3B08E88E1AB58C190083903F /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3B08E8A21AB58C1A0083903F /* sundayiosmedinaTests */ = {
+			isa = PBXGroup;
+			children = (
+				3B08E8A51AB58C1A0083903F /* sundayiosmedinaTests.swift */,
+				3B08E8A31AB58C1A0083903F /* Supporting Files */,
+			);
+			path = sundayiosmedinaTests;
+			sourceTree = "<group>";
+		};
+		3B08E8A31AB58C1A0083903F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3B08E8A41AB58C1A0083903F /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3B08E8891AB58C190083903F /* sundayiosmedina */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3B08E8A91AB58C1A0083903F /* Build configuration list for PBXNativeTarget "sundayiosmedina" */;
+			buildPhases = (
+				3B08E8861AB58C190083903F /* Sources */,
+				3B08E8871AB58C190083903F /* Frameworks */,
+				3B08E8881AB58C190083903F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = sundayiosmedina;
+			productName = sundayiosmedina;
+			productReference = 3B08E88A1AB58C190083903F /* sundayiosmedina.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3B08E89E1AB58C1A0083903F /* sundayiosmedinaTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3B08E8AC1AB58C1A0083903F /* Build configuration list for PBXNativeTarget "sundayiosmedinaTests" */;
+			buildPhases = (
+				3B08E89B1AB58C1A0083903F /* Sources */,
+				3B08E89C1AB58C1A0083903F /* Frameworks */,
+				3B08E89D1AB58C1A0083903F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3B08E8A11AB58C1A0083903F /* PBXTargetDependency */,
+			);
+			name = sundayiosmedinaTests;
+			productName = sundayiosmedinaTests;
+			productReference = 3B08E89F1AB58C1A0083903F /* sundayiosmedinaTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3B08E8821AB58C190083903F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0620;
+				ORGANIZATIONNAME = kasutaja;
+				TargetAttributes = {
+					3B08E8891AB58C190083903F = {
+						CreatedOnToolsVersion = 6.2;
+					};
+					3B08E89E1AB58C1A0083903F = {
+						CreatedOnToolsVersion = 6.2;
+						TestTargetID = 3B08E8891AB58C190083903F;
+					};
+				};
+			};
+			buildConfigurationList = 3B08E8851AB58C190083903F /* Build configuration list for PBXProject "sundayiosmedina" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3B08E8811AB58C190083903F;
+			productRefGroup = 3B08E88B1AB58C190083903F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3B08E8891AB58C190083903F /* sundayiosmedina */,
+				3B08E89E1AB58C1A0083903F /* sundayiosmedinaTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3B08E8881AB58C190083903F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3B08E8951AB58C190083903F /* Main.storyboard in Resources */,
+				3B08E89A1AB58C190083903F /* LaunchScreen.xib in Resources */,
+				3B08E8BC1AB59E790083903F /* compuutrid-300x184.png in Resources */,
+				3B08E8BE1AB59F520083903F /* 3b89f4e.png in Resources */,
+				3B08E8B61AB5923E0083903F /* bb7dd44c210722a9c22fea969564d752.jpg.png in Resources */,
+				3B08E8971AB58C190083903F /* Images.xcassets in Resources */,
+				3B08E8B51AB5923E0083903F /* Button Circle Magenta.png in Resources */,
+				3B08E8B81AB592550083903F /* esensorics-lilla-430x100.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3B08E89D1AB58C1A0083903F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3B08E8861AB58C190083903F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3B08E8921AB58C190083903F /* ViewController.swift in Sources */,
+				3B08E8901AB58C190083903F /* AppDelegate.swift in Sources */,
+				3B08E8B21AB58F5E0083903F /* ViewController3.swift in Sources */,
+				3B08E8B01AB58DCE0083903F /* ViewController2.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3B08E89B1AB58C1A0083903F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3B08E8A61AB58C1A0083903F /* sundayiosmedinaTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3B08E8A11AB58C1A0083903F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3B08E8891AB58C190083903F /* sundayiosmedina */;
+			targetProxy = 3B08E8A01AB58C1A0083903F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		3B08E8931AB58C190083903F /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3B08E8941AB58C190083903F /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3B08E8981AB58C190083903F /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3B08E8991AB58C190083903F /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3B08E8A71AB58C1A0083903F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3B08E8A81AB58C1A0083903F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3B08E8AA1AB58C1A0083903F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = sundayiosmedina/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		3B08E8AB1AB58C1A0083903F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = sundayiosmedina/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		3B08E8AD1AB58C1A0083903F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = sundayiosmedinaTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/sundayiosmedina.app/sundayiosmedina";
+			};
+			name = Debug;
+		};
+		3B08E8AE1AB58C1A0083903F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = sundayiosmedinaTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/sundayiosmedina.app/sundayiosmedina";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3B08E8851AB58C190083903F /* Build configuration list for PBXProject "sundayiosmedina" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3B08E8A71AB58C1A0083903F /* Debug */,
+				3B08E8A81AB58C1A0083903F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3B08E8A91AB58C1A0083903F /* Build configuration list for PBXNativeTarget "sundayiosmedina" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3B08E8AA1AB58C1A0083903F /* Debug */,
+				3B08E8AB1AB58C1A0083903F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3B08E8AC1AB58C1A0083903F /* Build configuration list for PBXNativeTarget "sundayiosmedinaTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3B08E8AD1AB58C1A0083903F /* Debug */,
+				3B08E8AE1AB58C1A0083903F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3B08E8821AB58C190083903F /* Project object */;
+}
