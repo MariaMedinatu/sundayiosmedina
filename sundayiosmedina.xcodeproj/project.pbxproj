@@ -18,8 +18,7 @@
 		3B08E8B51AB5923E0083903F /* Button Circle Magenta.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B08E8B31AB5923D0083903F /* Button Circle Magenta.png */; };
 		3B08E8B61AB5923E0083903F /* bb7dd44c210722a9c22fea969564d752.jpg.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B08E8B41AB5923D0083903F /* bb7dd44c210722a9c22fea969564d752.jpg.png */; };
 		3B08E8B81AB592550083903F /* esensorics-lilla-430x100.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B08E8B71AB592550083903F /* esensorics-lilla-430x100.png */; };
-		3B08E8BC1AB59E790083903F /* compuutrid-300x184.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B08E8BB1AB59E790083903F /* compuutrid-300x184.png */; };
-		3B08E8BE1AB59F520083903F /* 3b89f4e.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B08E8BD1AB59F520083903F /* 3b89f4e.png */; };
+		3B08E8C01AB5A02B0083903F /* compuutrid-300x184.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B08E8BF1AB5A02B0083903F /* compuutrid-300x184.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,8 +47,7 @@
 		3B08E8B31AB5923D0083903F /* Button Circle Magenta.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Button Circle Magenta.png"; path = "../../iostaskmedina/iostaskmedina/Button Circle Magenta.png"; sourceTree = "<group>"; };
 		3B08E8B41AB5923D0083903F /* bb7dd44c210722a9c22fea969564d752.jpg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bb7dd44c210722a9c22fea969564d752.jpg.png; path = ../../iostaskmedina/iostaskmedina/bb7dd44c210722a9c22fea969564d752.jpg.png; sourceTree = "<group>"; };
 		3B08E8B71AB592550083903F /* esensorics-lilla-430x100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "esensorics-lilla-430x100.png"; path = "../../iostaskmedina/iostaskmedina/esensorics-lilla-430x100.png"; sourceTree = "<group>"; };
-		3B08E8BB1AB59E790083903F /* compuutrid-300x184.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "compuutrid-300x184.png"; path = "../../../../Users/kasutaja/Desktop/compuutrid-300x184.png"; sourceTree = "<group>"; };
-		3B08E8BD1AB59F520083903F /* 3b89f4e.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 3b89f4e.png; path = ../../../../Users/kasutaja/Downloads/3b89f4e.png; sourceTree = "<group>"; };
+		3B08E8BF1AB5A02B0083903F /* compuutrid-300x184.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "compuutrid-300x184.png"; path = "../../compuutrid-300x184.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,8 +104,7 @@
 		3B08E88D1AB58C190083903F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				3B08E8BD1AB59F520083903F /* 3b89f4e.png */,
-				3B08E8BB1AB59E790083903F /* compuutrid-300x184.png */,
+				3B08E8BF1AB5A02B0083903F /* compuutrid-300x184.png */,
 				3B08E8B71AB592550083903F /* esensorics-lilla-430x100.png */,
 				3B08E8B31AB5923D0083903F /* Button Circle Magenta.png */,
 				3B08E8B41AB5923D0083903F /* bb7dd44c210722a9c22fea969564d752.jpg.png */,
@@ -215,8 +212,7 @@
 			files = (
 				3B08E8951AB58C190083903F /* Main.storyboard in Resources */,
 				3B08E89A1AB58C190083903F /* LaunchScreen.xib in Resources */,
-				3B08E8BC1AB59E790083903F /* compuutrid-300x184.png in Resources */,
-				3B08E8BE1AB59F520083903F /* 3b89f4e.png in Resources */,
+				3B08E8C01AB5A02B0083903F /* compuutrid-300x184.png in Resources */,
 				3B08E8B61AB5923E0083903F /* bb7dd44c210722a9c22fea969564d752.jpg.png in Resources */,
 				3B08E8971AB58C190083903F /* Images.xcassets in Resources */,
 				3B08E8B51AB5923E0083903F /* Button Circle Magenta.png in Resources */,
